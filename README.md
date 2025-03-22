@@ -2,6 +2,8 @@
 
 This is a simple yet efficient Java-based application designed to store and retrieve student results in real-time using **HashMap**, ensuring **O(1)** time complexity for result access.
 
+> 🏆 **This project was developed during the Coign Hackathon organized by our college, showcasing efficient problem-solving and real-time data handling using core Java concepts.**
+
 ## 🔧 Features
 - Add student results quickly and securely.
 - Retrieve individual results using Student ID.
@@ -19,3 +21,4 @@ The system leverages **Java HashMaps** to retrieve student records in constant t
 ---
 
 Feel free to clone and test the application or modify it further!
+
